@@ -1,0 +1,3 @@
+/Users/yohei/CLionProjects/miniboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yohei/CLionProjects/miniboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yohei/CLionProjects/miniboard/cmake-build-debug/CMakeFiles/kiloish.dir
